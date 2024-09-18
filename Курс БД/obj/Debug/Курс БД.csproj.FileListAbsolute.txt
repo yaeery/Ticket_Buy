@@ -1,0 +1,131 @@
+C:\Users\Artem\source\repos\Курс БД\Курс БД\bin\Debug\Курс БД.exe.config
+C:\Users\Artem\source\repos\Курс БД\Курс БД\bin\Debug\Курс БД.exe
+C:\Users\Artem\source\repos\Курс БД\Курс БД\bin\Debug\Курс БД.pdb
+C:\Users\Artem\source\repos\Курс БД\Курс БД\obj\Debug\Курс_БД.Properties.Resources.resources
+C:\Users\Artem\source\repos\Курс БД\Курс БД\obj\Debug\Курс БД.csproj.GenerateResource.cache
+C:\Users\Artem\source\repos\Курс БД\Курс БД\obj\Debug\Курс БД.csproj.CoreCompileInputs.cache
+C:\Users\Artem\source\repos\Курс БД\Курс БД\obj\Debug\Курс БД.exe
+C:\Users\Artem\source\repos\Курс БД\Курс БД\obj\Debug\Курс БД.pdb
+C:\Users\Artem\source\repos\Курс БД\Курс БД\obj\Debug\Курс_БД.EnteryForm.resources
+C:\Users\Artem\source\repos\Курс БД\Курс БД\obj\Debug\Курс_БД.MainFormForClient.resources
+C:\Users\Artem\source\repos\Курс БД\Курс БД\obj\Debug\Курс_БД.ViewAllTickets.resources
+C:\Users\Artem\source\repos\Курс БД\Курс БД\obj\Debug\Курс_БД.Form4.resources
+C:\Users\Artem\source\repos\Курс БД\Курс БД\obj\Debug\Курс_БД.Form5.resources
+C:\Users\Artem\source\repos\Курс БД\Курс БД\obj\Debug\Курс_БД.Form6.resources
+C:\Users\Artem\source\repos\Курс БД\Курс БД\obj\Debug\Курс_БД.Form7.resources
+C:\Users\Artem\source\repos\Курс БД\Курс БД\obj\Debug\Курс_БД.Form8.resources
+C:\Users\Artem\source\repos\Курс БД\Курс БД\obj\Debug\Курс_БД.Form10.resources
+C:\Users\Artem\source\repos\Курс БД\Курс БД\obj\Debug\Курс БД.csproj.AssemblyReference.cache
+C:\Users\Artem\source\repos\Курс БД\Курс БД\obj\Debug\Курс_БД.Form11.resources
+C:\Users\Artem\source\repos\Курс БД\Курс БД\obj\Debug\Курс_БД.Form12.resources
+C:\Users\Artem\source\repos\Курс БД\Курс БД\obj\Debug\Курс_БД.Form13.resources
+C:\Users\Artem\source\repos\Курс БД\Курс БД\obj\Debug\Курс_БД.Form14.resources
+C:\Users\Artem\source\repos\Курс БД\Курс БД\obj\Debug\Курс_БД.Form16.resources
+C:\Users\kondr\Downloads\Курс БД05.03\Курс БД\Курс БД\bin\Debug\Курс БД.exe.config
+C:\Users\kondr\Downloads\Курс БД05.03\Курс БД\Курс БД\bin\Debug\Курс БД.exe
+C:\Users\kondr\Downloads\Курс БД05.03\Курс БД\Курс БД\bin\Debug\Курс БД.pdb
+C:\Users\kondr\Downloads\Курс БД05.03\Курс БД\Курс БД\obj\Debug\Курс БД.csproj.AssemblyReference.cache
+C:\Users\kondr\Downloads\Курс БД05.03\Курс БД\Курс БД\obj\Debug\Курс_БД.EnteryForm.resources
+C:\Users\kondr\Downloads\Курс БД05.03\Курс БД\Курс БД\obj\Debug\Курс_БД.Form10.resources
+C:\Users\kondr\Downloads\Курс БД05.03\Курс БД\Курс БД\obj\Debug\Курс_БД.Form11.resources
+C:\Users\kondr\Downloads\Курс БД05.03\Курс БД\Курс БД\obj\Debug\Курс_БД.Form12.resources
+C:\Users\kondr\Downloads\Курс БД05.03\Курс БД\Курс БД\obj\Debug\Курс_БД.Form13.resources
+C:\Users\kondr\Downloads\Курс БД05.03\Курс БД\Курс БД\obj\Debug\Курс_БД.Form14.resources
+C:\Users\kondr\Downloads\Курс БД05.03\Курс БД\Курс БД\obj\Debug\Курс_БД.Form16.resources
+C:\Users\kondr\Downloads\Курс БД05.03\Курс БД\Курс БД\obj\Debug\Курс_БД.MainFormForClient.resources
+C:\Users\kondr\Downloads\Курс БД05.03\Курс БД\Курс БД\obj\Debug\Курс_БД.ViewAllTickets.resources
+C:\Users\kondr\Downloads\Курс БД05.03\Курс БД\Курс БД\obj\Debug\Курс_БД.Form4.resources
+C:\Users\kondr\Downloads\Курс БД05.03\Курс БД\Курс БД\obj\Debug\Курс_БД.Form5.resources
+C:\Users\kondr\Downloads\Курс БД05.03\Курс БД\Курс БД\obj\Debug\Курс_БД.Form6.resources
+C:\Users\kondr\Downloads\Курс БД05.03\Курс БД\Курс БД\obj\Debug\Курс_БД.Form7.resources
+C:\Users\kondr\Downloads\Курс БД05.03\Курс БД\Курс БД\obj\Debug\Курс_БД.Form8.resources
+C:\Users\kondr\Downloads\Курс БД05.03\Курс БД\Курс БД\obj\Debug\Курс_БД.Properties.Resources.resources
+C:\Users\kondr\Downloads\Курс БД05.03\Курс БД\Курс БД\obj\Debug\Курс БД.csproj.GenerateResource.cache
+C:\Users\kondr\Downloads\Курс БД05.03\Курс БД\Курс БД\obj\Debug\Курс БД.csproj.CoreCompileInputs.cache
+C:\Users\kondr\Downloads\Курс БД05.03\Курс БД\Курс БД\obj\Debug\Курс БД.exe
+C:\Users\kondr\Downloads\Курс БД05.03\Курс БД\Курс БД\obj\Debug\Курс БД.pdb
+C:\Users\kondr\Downloads\Курс БД05.03\Курс БД\Курс БД\obj\Debug\Курс_БД.Form17.resources
+C:\Users\Artem\source\repos\Курс БД05.03\Курс БД\Курс БД\bin\Debug\Курс БД.exe.config
+C:\Users\Artem\source\repos\Курс БД05.03\Курс БД\Курс БД\bin\Debug\Курс БД.exe
+C:\Users\Artem\source\repos\Курс БД05.03\Курс БД\Курс БД\bin\Debug\Курс БД.pdb
+C:\Users\Artem\source\repos\Курс БД05.03\Курс БД\Курс БД\obj\Debug\Курс БД.csproj.AssemblyReference.cache
+C:\Users\Artem\source\repos\Курс БД05.03\Курс БД\Курс БД\obj\Debug\Курс_БД.EnteryForm.resources
+C:\Users\Artem\source\repos\Курс БД05.03\Курс БД\Курс БД\obj\Debug\Курс_БД.Form10.resources
+C:\Users\Artem\source\repos\Курс БД05.03\Курс БД\Курс БД\obj\Debug\Курс_БД.Form11.resources
+C:\Users\Artem\source\repos\Курс БД05.03\Курс БД\Курс БД\obj\Debug\Курс_БД.Form12.resources
+C:\Users\Artem\source\repos\Курс БД05.03\Курс БД\Курс БД\obj\Debug\Курс_БД.Form13.resources
+C:\Users\Artem\source\repos\Курс БД05.03\Курс БД\Курс БД\obj\Debug\Курс_БД.Form14.resources
+C:\Users\Artem\source\repos\Курс БД05.03\Курс БД\Курс БД\obj\Debug\Курс_БД.Form16.resources
+C:\Users\Artem\source\repos\Курс БД05.03\Курс БД\Курс БД\obj\Debug\Курс_БД.Form17.resources
+C:\Users\Artem\source\repos\Курс БД05.03\Курс БД\Курс БД\obj\Debug\Курс_БД.MainFormForClient.resources
+C:\Users\Artem\source\repos\Курс БД05.03\Курс БД\Курс БД\obj\Debug\Курс_БД.ViewAllTickets.resources
+C:\Users\Artem\source\repos\Курс БД05.03\Курс БД\Курс БД\obj\Debug\Курс_БД.Form4.resources
+C:\Users\Artem\source\repos\Курс БД05.03\Курс БД\Курс БД\obj\Debug\Курс_БД.Form5.resources
+C:\Users\Artem\source\repos\Курс БД05.03\Курс БД\Курс БД\obj\Debug\Курс_БД.Form6.resources
+C:\Users\Artem\source\repos\Курс БД05.03\Курс БД\Курс БД\obj\Debug\Курс_БД.Form7.resources
+C:\Users\Artem\source\repos\Курс БД05.03\Курс БД\Курс БД\obj\Debug\Курс_БД.Form8.resources
+C:\Users\Artem\source\repos\Курс БД05.03\Курс БД\Курс БД\obj\Debug\Курс_БД.Properties.Resources.resources
+C:\Users\Artem\source\repos\Курс БД05.03\Курс БД\Курс БД\obj\Debug\Курс БД.csproj.GenerateResource.cache
+C:\Users\Artem\source\repos\Курс БД05.03\Курс БД\Курс БД\obj\Debug\Курс БД.csproj.CoreCompileInputs.cache
+C:\Users\Artem\source\repos\Курс БД05.03\Курс БД\Курс БД\obj\Debug\Курс БД.exe
+C:\Users\Artem\source\repos\Курс БД05.03\Курс БД\Курс БД\obj\Debug\Курс БД.pdb
+C:\Users\Artem\source\repos\Курс БД05.03\Курс БД\Курс БД\obj\Debug\Курс_БД.Form18.resources
+C:\Users\Artem\source\repos\Курс БД05.03\Курс БД\Курс БД\obj\Debug\Курс_БД.Form19.resources
+C:\Users\kondr\Documents\3 курс\Артем\Курс БД\Курс БД\bin\Debug\Курс БД.exe.config
+C:\Users\kondr\Documents\3 курс\Артем\Курс БД\Курс БД\bin\Debug\Курс БД.exe
+C:\Users\kondr\Documents\3 курс\Артем\Курс БД\Курс БД\bin\Debug\Курс БД.pdb
+C:\Users\kondr\Documents\3 курс\Артем\Курс БД\Курс БД\obj\Debug\Курс БД.csproj.AssemblyReference.cache
+C:\Users\kondr\Documents\3 курс\Артем\Курс БД\Курс БД\obj\Debug\Курс_БД.EnteryForm.resources
+C:\Users\kondr\Documents\3 курс\Артем\Курс БД\Курс БД\obj\Debug\Курс_БД.Form10.resources
+C:\Users\kondr\Documents\3 курс\Артем\Курс БД\Курс БД\obj\Debug\Курс_БД.Form11.resources
+C:\Users\kondr\Documents\3 курс\Артем\Курс БД\Курс БД\obj\Debug\Курс_БД.Form12.resources
+C:\Users\kondr\Documents\3 курс\Артем\Курс БД\Курс БД\obj\Debug\Курс_БД.Form13.resources
+C:\Users\kondr\Documents\3 курс\Артем\Курс БД\Курс БД\obj\Debug\Курс_БД.Form14.resources
+C:\Users\kondr\Documents\3 курс\Артем\Курс БД\Курс БД\obj\Debug\Курс_БД.Form16.resources
+C:\Users\kondr\Documents\3 курс\Артем\Курс БД\Курс БД\obj\Debug\Курс_БД.Form17.resources
+C:\Users\kondr\Documents\3 курс\Артем\Курс БД\Курс БД\obj\Debug\Курс_БД.Form18.resources
+C:\Users\kondr\Documents\3 курс\Артем\Курс БД\Курс БД\obj\Debug\Курс_БД.Form19.resources
+C:\Users\kondr\Documents\3 курс\Артем\Курс БД\Курс БД\obj\Debug\Курс_БД.MainFormForClient.resources
+C:\Users\kondr\Documents\3 курс\Артем\Курс БД\Курс БД\obj\Debug\Курс_БД.ViewAllTickets.resources
+C:\Users\kondr\Documents\3 курс\Артем\Курс БД\Курс БД\obj\Debug\Курс_БД.Form4.resources
+C:\Users\kondr\Documents\3 курс\Артем\Курс БД\Курс БД\obj\Debug\Курс_БД.Form5.resources
+C:\Users\kondr\Documents\3 курс\Артем\Курс БД\Курс БД\obj\Debug\Курс_БД.Form6.resources
+C:\Users\kondr\Documents\3 курс\Артем\Курс БД\Курс БД\obj\Debug\Курс_БД.Form7.resources
+C:\Users\kondr\Documents\3 курс\Артем\Курс БД\Курс БД\obj\Debug\Курс_БД.Form8.resources
+C:\Users\kondr\Documents\3 курс\Артем\Курс БД\Курс БД\obj\Debug\Курс_БД.Properties.Resources.resources
+C:\Users\kondr\Documents\3 курс\Артем\Курс БД\Курс БД\obj\Debug\Курс БД.csproj.GenerateResource.cache
+C:\Users\kondr\Documents\3 курс\Артем\Курс БД\Курс БД\obj\Debug\Курс БД.csproj.CoreCompileInputs.cache
+C:\Users\kondr\Documents\3 курс\Артем\Курс БД\Курс БД\obj\Debug\Курс БД.exe
+C:\Users\kondr\Documents\3 курс\Артем\Курс БД\Курс БД\obj\Debug\Курс БД.pdb
+C:\Users\kondr\Documents\3 курс\Артем\Курс БД\Курс БД\obj\Debug\Курс_БД.Form15.resources
+C:\Users\Artem\source\repos\Курс БД27.03\Курс БД\bin\Debug\Курс БД.exe.config
+C:\Users\Artem\source\repos\Курс БД27.03\Курс БД\bin\Debug\Курс БД.exe
+C:\Users\Artem\source\repos\Курс БД27.03\Курс БД\bin\Debug\Курс БД.pdb
+C:\Users\Artem\source\repos\Курс БД27.03\Курс БД\obj\Debug\Курс БД.csproj.AssemblyReference.cache
+C:\Users\Artem\source\repos\Курс БД27.03\Курс БД\obj\Debug\Курс_БД.EnteryForm.resources
+C:\Users\Artem\source\repos\Курс БД27.03\Курс БД\obj\Debug\Курс_БД.Form10.resources
+C:\Users\Artem\source\repos\Курс БД27.03\Курс БД\obj\Debug\Курс_БД.Form11.resources
+C:\Users\Artem\source\repos\Курс БД27.03\Курс БД\obj\Debug\Курс_БД.Form12.resources
+C:\Users\Artem\source\repos\Курс БД27.03\Курс БД\obj\Debug\Курс_БД.Form13.resources
+C:\Users\Artem\source\repos\Курс БД27.03\Курс БД\obj\Debug\Курс_БД.Form14.resources
+C:\Users\Artem\source\repos\Курс БД27.03\Курс БД\obj\Debug\Курс_БД.Form15.resources
+C:\Users\Artem\source\repos\Курс БД27.03\Курс БД\obj\Debug\Курс_БД.Form16.resources
+C:\Users\Artem\source\repos\Курс БД27.03\Курс БД\obj\Debug\Курс_БД.Form17.resources
+C:\Users\Artem\source\repos\Курс БД27.03\Курс БД\obj\Debug\Курс_БД.Form18.resources
+C:\Users\Artem\source\repos\Курс БД27.03\Курс БД\obj\Debug\Курс_БД.Form19.resources
+C:\Users\Artem\source\repos\Курс БД27.03\Курс БД\obj\Debug\Курс_БД.MainFormForClient.resources
+C:\Users\Artem\source\repos\Курс БД27.03\Курс БД\obj\Debug\Курс_БД.ViewAllTickets.resources
+C:\Users\Artem\source\repos\Курс БД27.03\Курс БД\obj\Debug\Курс_БД.Form4.resources
+C:\Users\Artem\source\repos\Курс БД27.03\Курс БД\obj\Debug\Курс_БД.Form5.resources
+C:\Users\Artem\source\repos\Курс БД27.03\Курс БД\obj\Debug\Курс_БД.Form6.resources
+C:\Users\Artem\source\repos\Курс БД27.03\Курс БД\obj\Debug\Курс_БД.Form7.resources
+C:\Users\Artem\source\repos\Курс БД27.03\Курс БД\obj\Debug\Курс_БД.Form8.resources
+C:\Users\Artem\source\repos\Курс БД27.03\Курс БД\obj\Debug\Курс_БД.Properties.Resources.resources
+C:\Users\Artem\source\repos\Курс БД27.03\Курс БД\obj\Debug\Курс БД.csproj.GenerateResource.cache
+C:\Users\Artem\source\repos\Курс БД27.03\Курс БД\obj\Debug\Курс БД.csproj.CoreCompileInputs.cache
+C:\Users\Artem\source\repos\Курс БД27.03\Курс БД\obj\Debug\Курс БД.exe
+C:\Users\Artem\source\repos\Курс БД27.03\Курс БД\obj\Debug\Курс БД.pdb
+C:\Users\Artem\source\repos\Курс БД27.03\Курс БД\obj\Debug\Курс_БД.Form20.resources
+C:\Users\Artem\source\repos\Курс БД27.03\Курс БД\obj\Debug\Курс_БД.Form21.resources
+C:\Users\Artem\source\repos\Курс БД27.03\Курс БД\obj\Debug\Курс_БД.Form22.resources
+C:\Users\Artem\source\repos\Курс БД27.03\Курс БД\obj\Debug\Курс_БД.Form23.resources
